@@ -1,7 +1,6 @@
-### Hi there 👋
+## Hi there 👋, I'm Mohammad Mirajul Hoque
 
-<!--
-**Mirazul-Hoq/Mirazul-Hoq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![code](https://user-images.githubusercontent.com/54999309/169643826-5082bfb1-4d0f-4928-83c0-f57dc5cbf954.gif)
 
 Here are some ideas to get you started:
 
