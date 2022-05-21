@@ -15,14 +15,25 @@
   <a title="Portfolio" href="https://mirajul.netlify.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mirajul.netlify.app" height="30" width="40" /></a>
 </span>
 <hr />
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>About Me 👨‍🎓</h2>
+
+-   I am very passionate about
+    computers, programming and
+    web development since my
+    university life.
+
+-   I dream to be an expert software
+    engineer or a web developer so
+    that I can build professional and
+    useful software or web
+    an application that has business
+    value.
+-   I have 2 years of experience in
+    Web Development as a backend and front-end developer.
+-   In-depth knowledge of
+    Laravel, ReactJs, MySql. Skillful creating
+    servers and databases for
+    functionality and designing and
+    developing APIs.
+
