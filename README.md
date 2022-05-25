@@ -69,4 +69,4 @@
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirazul-Hoq&show_icons=true&count_private=true&theme=outrun) -->
 
-<!-- ![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Mirazul-Hoq&theme=rogue&area=true&bg_color=011627&color=21C7A8&line=FF009D&point=00ffff&area_color=00FFFF) -->
+![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Mirazul-Hoq&theme=rogue&area=true&bg_color=011627&color=21C7A8&line=FF009D&point=00ffff&area_color=00FFFF)
